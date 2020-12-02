@@ -58,6 +58,12 @@
     href: advanced/uninstall.md
   - name: Troubleshooting
     href: advanced/troubleshooting.md
+- name: Authentication
+  items:
+  - name: Overview
+    href: authentication/overview.md
+  - name: Details
+    href: authentication/details.md
 - name: Migration
   items:
   - name: From Preview 1 to Preview 2
