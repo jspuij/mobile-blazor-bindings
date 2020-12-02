@@ -3,7 +3,7 @@ title: Securing a Mobile Blazor Bindings App
 ---
 # Securing a Mobile Blazor Bindings App
 
-By [Javier Calvarro Nelson](https://github.com/javiercn), [Jan-Willem Spuij](https://github.com/jspuij)
+By [Javier Calvarro Nelson](https://github.com/javiercn) and [Jan-Willem Spuij](https://github.com/jspuij)
 
 Mobile Blazor Bindings apps are secured in the same manner as Native apps. There are several approaches for authenticating users to Native apps, but the most common and comprehensive approach is to use an implementation based on the [OAuth 2.0 protocol](https://oauth.net/), such as [OpenID Connect (OIDC)](https://openid.net/connect/).
 

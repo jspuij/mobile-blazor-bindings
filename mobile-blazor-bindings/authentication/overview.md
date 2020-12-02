@@ -3,7 +3,7 @@ title: Mobile Blazor Bindings authentication and authorization
 ---
 # ASP.NET Core Blazor authentication and authorization
 
-By [Steve Sanderson](https://github.com/SteveSandersonMS), [Luke Latham](https://github.com/guardrex), [Jan-Willem Spuij](https://github.com/jspuij)
+By [Steve Sanderson](https://github.com/SteveSandersonMS), [Luke Latham](https://github.com/guardrex) and [Jan-Willem Spuij](https://github.com/jspuij)
 
 Mobile Blazor Bindings supports the configuration and management of security in Native and Hybrid apps. Mobile Blazor Bindings uses the existing ASP.NET Core authentication infrastructure and Components as much as possible.
 
